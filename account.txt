@@ -1,0 +1,4 @@
+r4admin||r4admin
+rgtemp04||rg20220712
+rgtemp05||rg20220516
+bcadmin||bcadmin
